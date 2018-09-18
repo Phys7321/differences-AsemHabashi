@@ -1,0 +1,4 @@
+# Feedback
+It looks like you did a lot of learning in some of those notebooks. A few comments:
+1) One of your goals in this course is to learn about the vectorized nature of MATLAB and python. Your for loop in python gets the job done, but I believe it is wildly inefficient way of going about the task. You don't need a for loop, you just need to think of 'x' as not a number but an array
+2) For future reference, make sure that you can run your MATLAB code without assuming that variables exist in your workspace. I couldn't get your MATLAB program to run.
